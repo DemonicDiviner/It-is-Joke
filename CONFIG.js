@@ -4,7 +4,7 @@ const CONFIGDATA = {
     "",
   buttonYes: "Я согласна",
   buttonNo: "Не согласна",
-  titleModar: "Спиздил красивые цитаты.",
+  titleModar: "Спиздил красивые цитаты, кроме последней.",
   descriptionModar:
-    "Ты — весь мой мир. </br> Люблю тебя <3",
+    "Ты — весь мой мир. </br> Люблю тебя <3 </br> Mindset: everything will be resolved before Peter or after...",
 };
